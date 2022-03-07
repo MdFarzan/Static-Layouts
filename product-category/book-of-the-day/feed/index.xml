@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Book of the Day Archives - Book Readus</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Mar 2022 12:23:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/03/cropped-favicon-1-32x32.jpg</url>
+	<title>Book of the Day Archives - Book Readus</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Om Swami: As we know him</title>
+		<link>./../../../shop/non-fiction/biography/om-swami-as-we-know-him/index.html</link>
+					<comments>./../../../shop/non-fiction/biography/om-swami-as-we-know-him/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[mdfarzan]]></dc:creator>
+		<pubDate>Thu, 10 Feb 2022 06:39:34 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=110</guid>
+
+					<description><![CDATA[<ul>
+<li class="ms-pt-xs sku ng-binding ng-scope" data-ng-if="product.sku"><b class="ng-binding">SKU</b>: OSAWKMIT77</li>
+<li class="ms-pt-xs brand-name ms-pb-xs ng-binding ng-scope" data-ng-if="product.brand"><b class="ng-binding">BRAND</b>: ISMITA TANDON</li>
+</ul>
+<p>The post <a rel="nofollow" href="./../../../shop/non-fiction/biography/om-swami-as-we-know-him/index.html">Om Swami: As we know him</a> appeared first on <a rel="nofollow" href="./../../../index.html">Book Readus</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Everything I thought to be true about life, its meaning was challenged after meeting Swami. It was reduced to dust. Soon I had to admit that there were things far beyond the scope of my rational mind.&#8217; What is it that draws one to a mystic? What is it like to know at close quarters a man whose powers are beyond the conscious mind? What does it feel like to be fulfilled spiritually, to feel understood, to stand revealed? As Ismita Tandon and Swami Vidyananda Om explore their feelings for Om Swami, their baffling experiences with him, a secret world of mystical phenomena lights up. They talk about the intimacy of their daily lives with Swami, observing his sheer power, his simplicity, his empathy for every living creature he encounters and the care with which he chooses every word he speaks, no matter how big or small the matter. They speak of his beauty, his divinity. What emerges is a moving portrait of devotion and trust, and the startling image of a saint who was able to inspire such depth of feeling.</p>
+<p>The post <a rel="nofollow" href="./../../../shop/non-fiction/biography/om-swami-as-we-know-him/index.html">Om Swami: As we know him</a> appeared first on <a rel="nofollow" href="./../../../index.html">Book Readus</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../shop/non-fiction/biography/om-swami-as-we-know-him/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
