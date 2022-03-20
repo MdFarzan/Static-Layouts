@@ -9231,14 +9231,14 @@ h2 {
 
 @media (min-width:376px) and (max-width:540px){
 	.search-wrap {
-	width: 95%;
+	width: 88%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .sm_search_wrap select {
-	font-size: 12px;
-	padding-left: 6px;
+	font-size: 11px;
+	padding-left: 2px;
 }
 }
 
