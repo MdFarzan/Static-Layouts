@@ -8577,11 +8577,11 @@ span.delimiter {
     
 }
 
-/* custom css starts */
-/* .product .sml-product-wrapp {
-	border-radius: 8px;
-	overflow: hidden;
-} */
+
+
+.sml-add-to-wishlist-wrap {
+	height: 50px;
+}
 
 .mob-nav-wrapper .custom-logo {
 	display: none;
@@ -8638,8 +8638,6 @@ a.edit:hover {
 .home-prdt .product .sml-product-image-wrapp {
 	min-height: 350px;
 	max-height: 350px;
-/* 	background: #F7E4DF; */
-/* 	border-radius: 4px; */
 	overflow: hidden;
 }
 
@@ -8671,7 +8669,6 @@ a.edit:hover {
 .product .sml-add-to-cart-wrap {
 	display: block;
 	width: 100%;
-/* 	background: #201C1C; */
 	background:#151414;
 	padding: 10px 15px;
 	text-align: center;
@@ -8692,14 +8689,6 @@ a.added_to_cart{
 	color:#cc1616;
 }
 
-/* .product .sml-add-to-cart-wrap:hover{
-	background-color:#ed1e24;
-	
-}
-
-.product .sml-add-to-cart-wrap:hover a.add_to_cart_button.button{
-	color:#151414;
-} */
 
 .wpfFilterTitle {
 	margin-bottom: 10px !important;
@@ -8999,9 +8988,6 @@ p.buttons a.checkout.wc-forward {
 	}
 	
 	
-	
-	
-	
 }
 
 
@@ -9083,10 +9069,7 @@ p.buttons a.checkout.wc-forward {
 	margin-right: 0px;
 }
 
-/* 	, .woocommerce-page ul.products[class*="columns-"] li.product:last-child */
-/* .woo-related-products-container .woocommerce ul.products[class*="columns-"] li.product:last-child {
-	display: none;
-} */
+
 .woo-related-products-container li.product:last-child {
 	display: none;
 }
@@ -9117,9 +9100,7 @@ p.buttons a.checkout.wc-forward {
 	}
 }
 
-@media (max-width:576px){
-	
-}
+
 
 @media (min-width:551px) and (max-width:700px){
 	.header-one .cart-icon-wrap {
@@ -9151,9 +9132,6 @@ p.buttons a.checkout.wc-forward {
 	margin-right: 14% !important;
 }
 	
-
-	
-
 	
 		.home-prdt .woocommerce ul.products li.product:nth-child(4n), .home-prdt.woocommerce-page ul.products li.product:nth-child(4n), .home-prdt .woocommerce ul.products li.product:nth-child(3n), .home-prdt.woocommerce-page ul.products li.product:nth-child(3n) {
 		margin-right: 14% !important;
@@ -9228,6 +9206,7 @@ h2 {
 
 
 @media (max-width:560px){
+
 	.woocommerce .sml-shop-wrap.sml-page-wrap.sml-archive-wrapper ul.products.columns-3 li.product {
 	width: 42% !important;
 	margin-right: 16% !important;
@@ -9250,19 +9229,21 @@ h2 {
 	
 }
 
+@media (min-width:376px) and (max-width:540px){
+	.search-wrap {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sm_search_wrap select {
+	font-size: 12px;
+	padding-left: 6px;
+}
+}
+
 @media (max-width:450px){
 	
-/* 	.home-prdt .woocommerce ul.products li.product:nth-child(2n), .home-prdt.woocommerce-page ul.products li.product:nth-child(2n), .home-prdt .woocommerce ul.products li.product:nth-child(4n), .home-prdt.woocommerce-page ul.products li.product:nth-child(4n), .home-prdt .woocommerce ul.products li.product:nth-child(3n), .home-prdt.woocommerce-page ul.products li.product:nth-child(3n) {
-		margin-right: auto !important;
-		}
-	
-	.home-prdt .woocommerce ul.products li.product, .home-prdt .woocommerce-page ul.products li.product {
-	width: 90% !important;
-	margin-right: auto !important;
-	margin-left: auto !important;
-} */
-/* continue from here  by setting width and height of product	 */
-
 	.home-prdt .product h2 > .woocommerce-LoopProduct-link {
 		font-size: 14px;
 	}
@@ -9272,21 +9253,6 @@ h2 {
 		color: #ed1e24;
 	}
 
-/* 	li.product.type-product:hover span.price {
-		opacity: 1;
-		visibility: visible;
-	}
-
-	li.product.type-product:hover .sml-add-to-cart-wrap {
-		opacity: 0;
-		visibility: hidden;
-		-webkit-transform: translateX(0);
-		-moz-transform: translateX(0);
-		-o-transform: translateX(0);
-		-ms-transform: translateX(0);
-		transform: translateX(0);
-		display: none;
-	} */
 	
 	.product .woocommerce-Price-amount {
 		margin-top: 2px;
@@ -9301,9 +9267,6 @@ h2 {
 	margin-right: 8% !important;
 }
 	
-
-	
-
 	
 		.home-prdt .woocommerce ul.products li.product:nth-child(4n), .home-prdt.woocommerce-page ul.products li.product:nth-child(4n), .home-prdt .woocommerce ul.products li.product:nth-child(3n), .home-prdt.woocommerce-page ul.products li.product:nth-child(3n) {
 		margin-right: 8% !important;
@@ -9348,9 +9311,6 @@ h2 {
 .woo-related-products-container .woocommerce ul.products[class*="columns-"] li.product, .woocommerce-page ul.products[class*="columns-"] li.product:last-child {
 	display: block;
 }
-
-
-	
 	
 }
 
